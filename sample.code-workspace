@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../edufac/sample/sample"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"emulator.emulatorPathWindows": "C:\\Users\\kanch\\AppData\\Local\\Android\\Sdk\\emulator",
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
